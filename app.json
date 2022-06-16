@@ -9,23 +9,23 @@
     "env": {
         "APP_ID": {
             "description": "You api id, from my.telegram.org or @apiScrapperRoBot.",
-            "value": "14699743"
+            "value": ""
         },
         "API_HASH": {
             "description": "You api hash, from my.telegram.org or @apiScrapperRoBot.",
-            "value": "0cef89ed2c8025c16d2b4d42a1b8d792"
+            "value": ""
         },
         "BOT_TOKEN": {
             "description": "Make a bot from @BotFather, and enter it's api token here.",
-            "value": "5390914661:AAH_h1IsgK_gwnxOAZfqFSM6l_ph2Veyrw4"
+            "value": ""
         },
         "LOG_CHANNEL": {
             "description": "Create a private group/channel. Add @missrose_bot and your bot + make admin. Do /id. Paste that here",
-             "value": "salbffgj"
+             "value": ""
         },
         "OWNER_ID": {
             "description": "Get ur Id Of Telegram nd Paste Here.",
-            "value": "5059280908"
+            "value": "",
             "required": false
         }
     }
