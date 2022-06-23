@@ -5,3 +5,6 @@ TgCrypto
 telethon
 html_telegraph_poster
 requests
+django
+gunicorn
+django-heroku
