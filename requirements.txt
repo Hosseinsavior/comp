@@ -1,5 +1,6 @@
 aiohttp
 python-decouple
+PyPI
 psutil
 telethon
 html_telegraph_poster
