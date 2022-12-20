@@ -1,4 +1,16 @@
+pyrogram
+TgCrypto
+hachoir
+Pillow
 aiohttp
+motor
+dnspython
+psutil
+pyromod
+humanfriendly
+pymongo
+websockets
+uvicorn
 python-decouple
 psutil
 telethon
